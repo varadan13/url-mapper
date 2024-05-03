@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "axios": "^1.1.3",
+    "device-detector-js": "^3.0.3",
+    "graphql": "^16.6.0",
+    "graphql-request": "^5.0.0",
+    "js2xmlparser": "^4.0.2",
+    "moment-timezone": "^0.5.37",
+    "next-sitemap": "^3.1.22",
+    "node-libcurl": "^2.3.4",
+    "ping": "^0.4.2",
+    "xml-parser": "^1.2.1",
+    "xstate": "^4.33.6"
+  }
+}
