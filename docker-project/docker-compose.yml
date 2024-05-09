@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   kafka:
-    image: wurstmeister/kafka
+    image: confluentinc/cp-kafka
     ports:
       - "9092:9092"
     environment:
